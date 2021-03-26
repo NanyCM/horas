@@ -10,7 +10,6 @@ import java.util.Scanner;
  * @author Eulindany Castro Munoz 
  * cod. 100154768
  * eucastro@poligran.edu.co
- *
  */
 public class HorasSegundos {
 
